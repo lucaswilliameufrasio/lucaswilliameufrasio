@@ -2,7 +2,7 @@
 
 I'm passionate to learn and create things using technology.
 
-- 🌱 I’m currently learning software engineering best pratices.
+- 🌱 I’m currently learning Software Engineering best pratices.
 - :computer: I'm currently having fun with some technologies (NodeJS included, of course).
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20William-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/lucaswilliameufrasio/)](https://linkedin.com/in/lucaswilliameufrasio/)
 | 
