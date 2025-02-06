@@ -9,6 +9,7 @@ I'm Lucas, a passionate software developer dedicated to learning and creating in
 - Flutter: Crafting beautiful cross-platform apps, fueling my interest in mobile development.
 - Rust: Utilizing Rust in production for an image resizer and optimizer service, used in a Flutter application to reduce network bandwidth usage.
 - NodeJS with TypeScript: A staple in my job stack for backend solutions.
+- Golang: My preferred choice for robust backend applications, although I primarily use NodeJS at work.
 
 📫 Connect with Me:
 
