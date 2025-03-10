@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Lucas, a passionate software developer dedicated to learning and creating innovative solutions. I thrive on leveraging technology to solve real-world problems and am always eager to expand my skill set.
+I'm Lucas, a passionate software developer dedicated to learning and creating innovative solutions. I thrive on leveraging technology to solve real-world problems and am always eager to expand my skill set. My focus has now shifted towards performance, cost, and security.
 
-🌱 Current Role: Software Developer at Grupo JCPM
+🌱 Current Role: Site Reliability Engineer at Grupo JCPM
 
 💻 Technologies I Enjoy:
 
