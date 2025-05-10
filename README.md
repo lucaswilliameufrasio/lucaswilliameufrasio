@@ -1,19 +1,22 @@
 ## Hi there 👋
 
-I'm Lucas, a passionate software developer dedicated to learning and creating innovative solutions. I thrive on leveraging technology to solve real-world problems and am always eager to expand my skill set. My focus has now shifted towards performance, cost, and security.
+I’m Lucas, a Site Reliability Engineer at Grupo JCPM who loves building and optimizing things that matter. I thrive on crafting reliable, high-performance solutions that keep costs in check and security front and center. Every day is an opportunity to streamline processes, tackle real-world challenges, and push my own limits.
 
-🌱 Current Role: Site Reliability Engineer at Grupo JCPM
+## What I’m All About
 
-💻 Technologies I Enjoy:
+Reliability & Scale: Designing systems that stay rock-solid as they grow.
 
-- Flutter: Crafting beautiful cross-platform apps, fueling my interest in mobile development.
-- Rust: Utilizing Rust in production for an image resizer and optimizer service, used in a Flutter application to reduce network bandwidth usage.
-- NodeJS with TypeScript: A staple in my job stack for backend solutions.
-- Golang: My preferred choice for robust backend applications, although I primarily use NodeJS at work.
+Performance First: Hunting down bottlenecks and squeezing out every last drop of speed.
 
-📫 Connect with Me:
+Cost Efficiency: Finding smarter ways to do more with less.
+
+Security by Design: Building with defense in mind from the very start.
+
+Continuous Learning: Always experimenting, always improving.
+
+📫 Let’s Connect:
 
 - [LinkedIn](https://linkedin.com/in/lucaswilliameufrasio/)
-- [Email](mailto:lucaswilliameufrasio@gmail.com)
+- [Twitter](https://x.com/lucaswilliameu?t=4LhiUbrjKR_2GPB4SLONkQ&s=09)
 
 👥 My Alter Ego: [lucas-eufrasio-jcpm](https://github.com/lucas-eufrasio-jcpm)
