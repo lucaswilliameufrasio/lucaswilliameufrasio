@@ -4,15 +4,15 @@ I’m Lucas Eufrasio, a Site Reliability Engineer at Grupo JCPM who loves buildi
 
 ## What I’m All About
 
-Reliability & Scale: Designing systems that stay rock-solid as they grow.
+**Reliability & Scale**: Designing systems that stay rock-solid as they grow.
 
-Performance First: Hunting down bottlenecks and squeezing out every last drop of speed.
+**Performance First**: Hunting down bottlenecks and squeezing out every last drop of speed.
 
-Cost Efficiency: Finding smarter ways to do more with less.
+**Cost Efficiency**: Finding smarter ways to do more with less.
 
-Security by Design: Building with defense in mind from the very start.
+**Security by Design**: Building with defense in mind from the very start.
 
-Continuous Learning: Always experimenting, always improving.
+**Continuous Learning**: Always experimenting, always improving.
 
 📫 Let’s Connect:
 
