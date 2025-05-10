@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Lucas, a Site Reliability Engineer at Grupo JCPM who loves building and optimizing things that matter. I thrive on crafting reliable, high-performance solutions that keep costs in check and security front and center. Every day is an opportunity to streamline processes, tackle real-world challenges, and push my own limits.
+I’m Lucas Eufrasio, a Site Reliability Engineer at Grupo JCPM who loves building and optimizing things that matter. I thrive on crafting reliable, high-performance solutions that keep costs in check and security front and center. Every day is an opportunity to streamline processes, tackle real-world challenges, and push my own limits.
 
 ## What I’m All About
 
