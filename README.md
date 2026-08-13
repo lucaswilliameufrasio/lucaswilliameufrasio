@@ -20,3 +20,5 @@ I’m Lucas Eufrasio, a Site Reliability Engineer at Grupo JCPM who loves buildi
 - [Twitter](https://x.com/lucaswilliameu?t=4LhiUbrjKR_2GPB4SLONkQ&s=09)
 
 👥 My Alter Ego: [lucas-eufrasio-jcpm](https://github.com/lucas-eufrasio-jcpm)
+
+![Perfil](https://the-counter.lucaswilliameufrasio.com/v1/badges/perfil-visitas?label=Visitas%20ao%20perfil&color=blue&style=plastic)
