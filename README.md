@@ -22,6 +22,10 @@ release pipelines, observability, and the tools nobody else wants to maintain.
   splits the delivery bill without the fight. Type in the receipt items, tag who
   consumed what, and share the result via a link that carries the data itself —
   nothing is sent to servers.
+- **[guajara](https://github.com/lucaswilliameufrasio/guajara)** —
+  Rust CLI + guided TUI to manage `~/.ssh/config` and `/etc/hosts`. Lossless
+  editing, diff preview before every write, atomic saves, and SSH port-forward
+  tracking with live tunnel status.
 
 ## Also me
 
