@@ -26,4 +26,4 @@ release pipelines, observability, and the tools nobody else wants to maintain.
   [LinkedIn](https://linkedin.com/in/lucaswilliameufrasio/) ·
   [X](https://x.com/lucaswilliameu)
 
-![Visitas ao perfil](https://the-counter.lucaswilliameufrasio.com/v1/badges/perfil-visitass?label=Visitas%20ao%20perfil&color=blue&style=plastic)
+![Visitas ao perfil](ttps://the-counter.lucaswilliameufrasio.com/v1/badges/perfil-visitas?label=Visitas%20ao%20perfil&color=blue&style=plastic)
