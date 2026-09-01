@@ -18,6 +18,10 @@ release pipelines, observability, and the tools nobody else wants to maintain.
 - **[mobile-release](https://github.com/lucaswilliameufrasio/mobile-release)** —
   Go CLI + shared Fastlane lanes to release Expo, Flutter and KMP apps.
   Secrets materialized as files, never printed.
+- **[racha-conta](https://racha-conta.lucaswilliameufrasio.com/)** —
+  splits the delivery bill without the fight. Type in the receipt items, tag who
+  consumed what, and share the result via a link that carries the data itself —
+  nothing is sent to servers.
 
 ## Also me
 
