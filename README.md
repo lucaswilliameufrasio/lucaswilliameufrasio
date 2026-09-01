@@ -1,24 +1,29 @@
-## Hi there 👋
+SRE at Grupo JCPM. I build the boring parts until they're interesting:
+release pipelines, observability, and the tools nobody else wants to maintain.
 
-I’m Lucas Eufrasio, a Site Reliability Engineer at Grupo JCPM who loves building and optimizing things that matter. I thrive on crafting reliable, high-performance solutions that keep costs in check and security front and center. Every day is an opportunity to streamline processes, tackle real-world challenges, and push my own limits.
+## Shipping
 
-## What I’m All About
+- **[acari](https://github.com/lucaswilliameufrasio/acari)** — macOS/Linux disk
+  cleaner in Rust. Parallel traversal, non-blocking TUI, cargo-dist releases,
+  ADRs and a security glossary included.
+- **[cururu](https://github.com/lucaswilliameufrasio/cururu)** — stateless LLM
+  PR-review bot for GitHub Actions. It reviews its own PRs. 63 tests green.
+- **[pgbouncer-docker](https://github.com/lucaswilliameufrasio/pgbouncer-docker)** —
+  maintained PgBouncer images (Debian/Alpine) since bitnami discontinued theirs.
+  Smoke-tested in CI, actions pinned by digest.
+- **[disposable-domain-verifier](https://github.com/lucaswilliameufrasio/disposable-domain-verifier)** —
+  disposable-email detector, live at
+  [disposable-domain-verifier.lucaswilliameufrasio.com](https://disposable-domain-verifier.lucaswilliameufrasio.com)
+  with a daily self-updating blocklist.
+- **[mobile-release](https://github.com/lucaswilliameufrasio/mobile-release)** —
+  Go CLI + shared Fastlane lanes to release Expo, Flutter and KMP apps.
+  Secrets materialized as files, never printed.
 
-**Reliability & Scale**: Designing systems that stay rock-solid as they grow.
+## Also me
 
-**Performance First**: Hunting down bottlenecks and squeezing out every last drop of speed.
+- The visit counter below runs on an API I wrote.
+- Work account: [@lucas-eufrasio-jcpm](https://github.com/lucas-eufrasio-jcpm) ·
+  [LinkedIn](https://linkedin.com/in/lucaswilliameufrasio/) ·
+  [X](https://x.com/lucaswilliameu)
 
-**Cost Efficiency**: Finding smarter ways to do more with less.
-
-**Security by Design**: Building with defense in mind from the very start.
-
-**Continuous Learning**: Always experimenting, always improving.
-
-📫 Let’s Connect:
-
-- [LinkedIn](https://linkedin.com/in/lucaswilliameufrasio/)
-- [Twitter](https://x.com/lucaswilliameu?t=4LhiUbrjKR_2GPB4SLONkQ&s=09)
-
-👥 My Alter Ego: [lucas-eufrasio-jcpm](https://github.com/lucas-eufrasio-jcpm)
-
-![Perfil](https://the-counter.lucaswilliameufrasio.com/v1/badges/perfil-visitas?label=Visitas%20ao%20perfil&color=blue&style=plastic)
+![Visitas ao perfil](https://the-counter.lucaswilliameufrasio.com/v1/badges/perfil-visitass?label=Visitas%20ao%20perfil&color=blue&style=plastic)
