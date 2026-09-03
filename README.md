@@ -22,6 +22,11 @@ release pipelines, observability, and the tools nobody else wants to maintain.
   splits the delivery bill without the fight. Type in the receipt items, tag who
   consumed what, and share the result via a link that carries the data itself —
   nothing is sent to servers.
+- **[tucupi](https://github.com/lucaswilliameufrasio/tucupi)** —
+  concurrent dependency checker and upgrader with built-in security auditing.
+  Rust TUI across 11 ecosystems (cargo, npm, go, mise, homebrew, pacman...),
+  CVE scanning via OSV.dev/NVD, policy gates, rollback, and secrets in the OS
+  keychain.
 - **[guajara](https://github.com/lucaswilliameufrasio/guajara)** —
   Rust CLI + guided TUI to manage `~/.ssh/config` and `/etc/hosts`. Lossless
   editing, diff preview before every write, atomic saves, and SSH port-forward
