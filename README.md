@@ -31,6 +31,9 @@ release pipelines, observability, and the tools nobody else wants to maintain.
   Rust CLI + guided TUI to manage `~/.ssh/config` and `/etc/hosts`. Lossless
   editing, diff preview before every write, atomic saves, and SSH port-forward
   tracking with live tunnel status.
+- **[cais](https://github.com/lucaswilliameufrasio/cais)** —
+  Rust TUI and web interface for provisioning, migrating, backing up, and
+  restoring PostgreSQL databases, with encrypted local secret storage.
 
 ## Also me
 
