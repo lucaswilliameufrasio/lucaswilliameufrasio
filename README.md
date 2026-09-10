@@ -8,6 +8,10 @@ release pipelines, observability, and the tools nobody else wants to maintain.
   ADRs and a security glossary included.
 - **[cururu](https://github.com/lucaswilliameufrasio/cururu)** — stateless LLM
   PR-review bot for GitHub Actions. It reviews its own PRs. 63 tests green.
+- **[jira-mcp](https://github.com/lucaswilliameufrasio/jira-mcp)** — production-ready
+  Model Context Protocol server for Jira Cloud and Data Center. Go binary with
+  local stdio, self-hosted HTTP/OAuth, contract tests, pinned CI, and releases
+  for Linux, macOS, and Windows.
 - **[pgbouncer-docker](https://github.com/lucaswilliameufrasio/pgbouncer-docker)** —
   maintained PgBouncer images (Debian/Alpine) since bitnami discontinued theirs.
   Smoke-tested in CI, actions pinned by digest.
