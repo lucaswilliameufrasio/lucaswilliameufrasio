@@ -12,6 +12,10 @@ release pipelines, observability, and the tools nobody else wants to maintain.
   Model Context Protocol server for Jira Cloud and Data Center. Go binary with
   local stdio, self-hosted HTTP/OAuth, contract tests, pinned CI, and releases
   for Linux, macOS, and Windows.
+- **[share-secrets](https://github.com/lucaswilliameufrasio/share-secrets)** —
+  experimental, self-hosted single-use secret sharing for when corporate mail
+  filters block password-manager invites. Secrets are encrypted in the browser
+  and stored temporarily in memory.
 - **[pgbouncer-docker](https://github.com/lucaswilliameufrasio/pgbouncer-docker)** —
   maintained PgBouncer images (Debian/Alpine) since bitnami discontinued theirs.
   Smoke-tested in CI, actions pinned by digest.
